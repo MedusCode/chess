@@ -1,0 +1,20 @@
+<svg width="55" height="60" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <!-- black rook //-->
+  <g id="svg_76" fill="0" fill-rule="evenodd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#000000">
+   <path id="svg_77" d="m0.75,60.07642l53.39378,0l0,-5.93264l-53.39378,0l0,5.93264z" stroke="null"/>
+   <path id="svg_78" d="m7.67141,46.23359l2.96632,-4.94387l33.61831,0l2.96632,4.94387l-39.55095,0z" stroke="null"/>
+   <path id="svg_79" d="m6.68264,54.14378l0,-7.91019l41.5285,0l0,7.91019l-41.5285,0z" stroke="null"/>
+   <path id="svg_80" d="m10.63774,41.28972l0,-25.70812l33.61831,0l0,25.70812l-33.61831,0z" stroke="null"/>
+   <path id="svg_81" d="m10.63774,15.5816l-5.93264,-4.94387l45.48359,0l-5.93264,4.94387l-33.61831,0z" stroke="null"/>
+   <path id="svg_82" d="m4.70509,10.63774l0,-9.88774l7.91019,0l0,3.9551l9.88774,0l0,-3.9551l9.88774,0l0,3.9551l9.88774,0l0,-3.9551l7.91019,0l0,9.88774l-45.48359,0l-0.00001,0z" stroke="null"/>
+   <path id="svg_83" d="m6.68264,53.15501l41.5285,0l0,0" fill="none" stroke="#ffffff"/>
+   <path id="svg_84" d="m8.66019,45.24482l37.5734,0" fill="none" stroke="#ffffff"/>
+   <path id="svg_85" d="m10.63774,41.28972l33.61831,0" fill="none" stroke="#ffffff"/>
+   <path id="svg_86" d="m10.63774,15.5816l33.61831,0" fill="none" stroke="#ffffff"/>
+   <path id="svg_87" d="m4.70509,10.63774l45.48359,0" fill="none" stroke="#ffffff"/>
+  </g>
+ </g>
+
+</svg>

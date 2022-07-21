@@ -1,0 +1,16 @@
+<svg width="55" height="61" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <!-- white rook //-->
+  <g id="svg_33" fill="#ffffff" fill-rule="evenodd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke="#000000">
+   <path id="svg_34" d="m0.75,60.07642l53.39378,0l0,-5.93264l-53.39378,0l0,5.93264z" stroke="null"/>
+   <path id="svg_35" d="m6.68264,54.14378l0,-7.91019l41.5285,0l0,7.91019l-41.5285,0z" stroke="null"/>
+   <path id="svg_36" d="m4.70509,10.63774l0,-9.88774l7.91019,0l0,3.9551l9.88774,0l0,-3.9551l9.88774,0l0,3.9551l9.88774,0l0,-3.9551l7.91019,0l0,9.88774" stroke="null"/>
+   <path id="svg_37" d="m50.18869,10.63774l-5.93264,5.93264l-33.61831,0l-5.93264,-5.93264" stroke="null"/>
+   <path id="svg_38" d="m44.25604,16.57038l0,24.71934l-33.61831,0l0,-24.71934" stroke="null"/>
+   <path id="svg_39" d="m44.25604,41.28972l2.96632,4.94387l-39.55095,0l2.96632,-4.94387" stroke="null"/>
+   <path id="svg_40" d="m4.70509,10.63774l45.48359,0" fill="none" stroke="#000000"/>
+  </g>
+ </g>
+
+</svg>

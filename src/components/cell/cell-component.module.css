@@ -1,0 +1,20 @@
+.cell {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.black {
+  background-color: chocolate;
+}
+
+.white {
+  background-color: bisque;
+}
+
+.piece {
+  position: relative;
+  height: 80%;
+}
