@@ -10,4 +10,10 @@ export default class Bishop extends Piece {
     this.name = PieceNames.BISHOP;
     this.img = color === 'black' ? blackImg : whiteImg;
   }
+
+  canMove(target: Cell): boolean {
+    if (!super.canMove(target)) return false;
+    return this.cell.isDiagonalEmpty(target);
+
+  }
 }

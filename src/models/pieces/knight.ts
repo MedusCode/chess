@@ -10,4 +10,13 @@ export default class Knight extends Piece {
     this.name = PieceNames.KNIGHT;
     this.img = color === 'black' ? blackImg : whiteImg;
   }
+
+  canMove(target: Cell): boolean {
+    if (!super.canMove(target)) return false;
+
+    const deltaX = Math.abs(this.cell.x - target.x);
+    const deltaY = Math.abs(this.cell.y - target.y);
+
+    return (deltaX === 1 && deltaY === 2) || (deltaX === 2 && deltaY === 1);
+  }
 }

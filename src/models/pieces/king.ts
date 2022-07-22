@@ -10,4 +10,12 @@ export default class King extends Piece {
     this.name = PieceNames.KING;
     this.img = color === 'black' ? blackImg : whiteImg;
   }
+
+  canMove(target: Cell): boolean {
+    if (!super.canMove(target)) return false;
+
+    // todo: king moves
+
+    return false;
+  }
 }

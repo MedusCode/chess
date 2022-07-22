@@ -10,4 +10,11 @@ export default class Rook extends Piece {
     this.name = PieceNames.ROOK;
     this.img = color === 'black' ? blackImg : whiteImg;
   }
+
+  canMove(target: Cell): boolean {
+    if (!super.canMove(target)) return false;
+    if (this.cell.isVerticalEmpty(target)) return true;
+    if (this.cell.isHorizontalEmpty(target)) return true;
+    return false;
+  }
 }
